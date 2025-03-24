@@ -49,6 +49,9 @@
 </a>
 
 <br/>
+#Aditya Kumar
+[![Visitor Count](https://profile-counter.glitch.me/YOUR-USERNAME/count.svg)](https://github.com/aditya-35)
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
