@@ -1,14 +1,16 @@
-<img src="">
+<img src="https://github.com/aditya-35/AdityaKumar/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 
 <h2> Hey there! I'm Aditya.</h2>
+<p> I am curious guy from a small village of Unnao district.</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science and Mathematics at Madan Mohan Malviya University of Technology, Gorakhpur.
+- 🎓 &nbsp; Studied Bachelor's of Computer Application at Chhatrapati Shahu Ji Maharaj University, Kanpur.
+- 🎓 &nbsp; Studied Master's of Computer Application at Madan Mohan Malviya University of Technology, Gorakhpur.
 - 💼 &nbsp; Working as a Freelancer and searching for Job.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design, Blog Writing and Reading as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -51,9 +53,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adi35/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adi35/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/softwareguy.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:knpaditya2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://x.com/Knp_Aditya_"><img alt="Website" src="https://img.shields.io/badge/Twitter-Knp_Aditya_-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/adi35/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/softwareguy.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-softwareguy.dev-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:knpaditya2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-knpaditya2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
