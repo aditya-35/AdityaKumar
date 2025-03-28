@@ -2,6 +2,9 @@
 
 <h2> Hey there! I'm Aditya.</h2>
 <p> I am curious guy from a small village of Unnao district.</p>
+<p>A passionate and self-driven tech enthusiast with a background in Software Engineering and a Master of Computer Application (MCA) from Madan Mohan Malviya University of Technology, Gorakhpur.
+
+I'm on a journey to build a career as a Web Developer and am currently enhancing my skills in React, Nextjs to become a MERN full stack developer. I enjoy solving problems, learning new technologies, and creating projects that add value.</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
